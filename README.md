@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabspalhares
 - 👀 I’m interested in web, game or desktop development. Maybe at some point I'll start learning mobile development as well
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: gabspalhares@gmail.com
 
 <!---
